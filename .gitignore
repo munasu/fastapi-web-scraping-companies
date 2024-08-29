@@ -1,0 +1,15 @@
+/scripts/creden_data.py
+/scripts/data.py
+/scripts/get_data.py
+/scripts/test.py
+/scripts/script.py
+
+.env
+
+cleaned_company_list_v2.csv
+company_juristic_ids_1.csv
+test.py
+test2.py
+
+env
+__pycache__
